@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+header{
+    background-color: aqua;
+    height: 100px;
+}
+
+#esquerda{
+    background-color: blue;
+    height: 100px;
+    width: 50%;
+    float: left;
+}
+
+#direita{
+    background-color: green;
+    height: 100px;
+    width: 50%;
+    float: right;
+}
+
+#footer{
+    background-color: yellow;
+    height: 30px;
+    clear: both;
+}
