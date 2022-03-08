@@ -1,0 +1,25 @@
+.desconto {
+    background: #1CD1B0;
+    padding: 10px;
+}
+
+header {
+    background:#00669F;
+    font-size: 40px;
+    padding: 15px;
+}
+
+.capa_batman {
+    background-image: url(../img/batman-capa.png);
+    position: absolute;
+    width: 374px;
+    height: 218.94px;
+    left: 112px;
+    top: 223.99px;
+}
+
+.heart {
+    position: relative;
+    top: 150px;
+    left: 90px;
+}
